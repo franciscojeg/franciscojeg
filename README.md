@@ -23,7 +23,7 @@
 <a href="https://twitter.com/franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franciscojeg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/franciscojeg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/francisco-javier-escobar-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="francisco-javier-escobar-g" height="30" width="40" /></a>
-<a href="https://instagram.com/@franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@franciscojeg" height="30" width="40" /></a>
+<a href="https://instagram.com/franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@franciscojeg" height="30" width="40" /></a>
 <a href="https://medium.com/@francisco-escobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@francisco-escobar" height="30" width="40" /></a>
 </p>
 
