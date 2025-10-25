@@ -1,35 +1,87 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Francisco Escobar</h1>
-<h3 align="center">A Cloud/DevOps Engineer based in Santiago (Chile)</h3>
+# 👋 Hi, I'm Francisco Escobar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscojeg&label=Profile%20views&color=0e75b6&style=flat" alt="franciscojeg" /> </p>
+### Systems Engineer | SaaS Customer Success | Cloud Computing Enthusiast
+### Helping others succeed in tech 🚀
 
-<p align="left"> <a href="https://twitter.com/franciscojeg" target="blank"><img src="https://img.shields.io/twitter/follow/franciscojeg?logo=twitter&style=for-the-badge" alt="franciscojeg" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=franciscojeg&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/franciscojeg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/franciscojeg?logo=twitter&style=for-the-badge)](https://twitter.com/franciscojeg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franciscojeg)
+[![DEV Profile](https://img.shields.io/badge/DEV.to-Follow-black?style=for-the-badge&logo=dev.to)](https://dev.to/franciscojeg78)
 
-- 🔭 I’m currently working on **Linux and AWS concepts/projects**
+</div>
 
-- 🌱 I’m currently learning **Linux and AWS Cloud Computing**
+---
 
-- 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@francisco-escobar](https://medium.com/@francisco-escobar)
+I'm a Systems Engineer with experience in **SaaS Customer Success**, currently **learning and transitioning into Cloud Computing and DevOps**. I'm passionate about technology and committed to continuous learning through hands-on practice and real-world projects.
 
-- 💬 Ask me about **AWS and Linux**
+My background in Customer Success gives me a unique perspective on how technology impacts users and businesses, which I'm now applying as I build my technical cloud and DevOps skills.
 
-- 📫 How to reach me **franciscojeg@gmail.com**
+- 🔭 Currently **studying and practicing** AWS, Docker, and infrastructure automation
+- 🌱 Doing **hands-on labs** and building projects to learn Cloud Computing & DevOps
+- 🎯 **Actively transitioning** from Customer Success to Cloud/DevOps roles
+- 📚 Learning something new **every single day**
+- 👯 Open to collaborate on **beginner-friendly cloud and DevOps projects**
+- 📝 Documenting my learning journey on [Medium](https://medium.com/@francisco-escobar) and [DEV.to](https://dev.to/franciscojeg78)
+- 💬 Ask me about **Customer Success, my learning journey, or beginner cloud questions**
+- 📫 Reach me at **franciscojeg@gmail.com**
+- 🌍 Based in **Santiago, Chile**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franciscojeg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/franciscojeg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/francisco-javier-escobar-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="francisco-javier-escobar-g" height="30" width="40" /></a>
-<a href="https://instagram.com/franciscojeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@franciscojeg" height="30" width="40" /></a>
-<a href="https://medium.com/@francisco-escobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@francisco-escobar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🎯 Currently Learning & Practicing
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscojeg&show_icons=true&locale=en&layout=compact" alt="franciscojeg" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscojeg&" alt="franciscojeg" /></p>
+| Technology | What I'm Doing | Current Level |
+|:----------:|:----------:|:------:|
+| ☁️ **AWS** | Hands-on labs, studying for Solutions Architect | 🌱 Learning |
+| 🐍 **Python** | Automation scripts, DevOps use cases | 🌱 Learning |
+| 🏗️ **Terraform** | Following tutorials, small projects | 🌱 Beginner |
+| ∞ **CI/CD** | Understanding concepts, basic pipelines | 🌱 Beginner |
+| 🐳 **Docker** | Containerizing apps, Docker Compose | 🌱 Learning |
+| ⚓ **Kubernetes** | Studying fundamentals, local clusters | 🌱 Beginner |
+| 🐧 **Linux** | Daily practice, command line skills | 🌱 Learning |
+
+</div>
+
+> 💡 **Note:** I'm not an expert yet, but I'm dedicated to learning through consistent practice and hands-on experience!
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms (Learning)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🔧 DevOps & Infrastructure (Learning)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases (Familiar with)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 💼 Professional Experience
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+
+
