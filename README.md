@@ -1,87 +1,98 @@
-<div align="center">
-
 # 👋 Hi, I'm Francisco Escobar
 
-### AWS Community Builder | Systems Engineer | SaaS Customer Success | Cloud Computing Enthusiast
+### AWS Community Builder · Systems Engineer · SaaS Customer Success · Cloud, DevOps & AI Learner
+
 ### Helping others succeed in tech 🚀
-
-[![Profile Views](https://komarev.com/ghpvc/?username=franciscojeg&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/franciscojeg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/franciscojeg?logo=twitter&style=for-the-badge)](https://twitter.com/franciscojeg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franciscojeg)
-[![DEV Profile](https://img.shields.io/badge/DEV.to-Follow-black?style=for-the-badge&logo=dev.to)](https://dev.to/franciscojeg78)
-
-</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Systems Engineer with experience in **SaaS Customer Success**, currently **learning and transitioning into Cloud Computing and DevOps**. I'm passionate about technology and committed to continuous learning through hands-on practice and real-world projects.
+I'm a Systems Engineer with experience in **SaaS Customer Success**, currently building hands-on skills in **Cloud Computing, DevOps, and Artificial Intelligence**.
 
-My background in Customer Success gives me a unique perspective on how technology impacts users and businesses, which I'm now applying as I build my technical cloud and DevOps skills.
+My Customer Success background gives me a unique perspective on how technology impacts users and businesses. I'm applying that perspective as I build practical skills through cloud labs, automation, and real-world projects.
 
-- 🔭 Currently **studying and practicing** AWS, Docker, and infrastructure automation
-- 🌱 Doing **hands-on labs** and building projects to learn Cloud Computing & DevOps
-- 🎯 **Actively transitioning** from Customer Success to Cloud/DevOps roles
-- 📚 Learning something new **every single day**
-- 👯 Open to collaborate on **beginner-friendly cloud and DevOps projects**
-- 📝 Documenting my learning journey on [Medium](https://medium.com/@francisco-escobar) and [DEV.to](https://dev.to/franciscojeg78)
-- 💬 Ask me about **Customer Success, my learning journey, or beginner cloud questions**
+- ☁️ Learning and practicing **AWS, Docker, Linux, Python, Terraform, CI/CD, and AI**
+- 🤖 Exploring AI concepts, tools such as **ChatGPT and Claude**, and practical use cases
+- 🧪 Building hands-on labs and small Cloud, DevOps, and AI projects
+- 🎯 Transitioning from Customer Success into Cloud, DevOps, and AI-focused roles
+- 🤝 Open to collaborating on beginner-friendly cloud, automation, and AI projects
+- ✍️ Documenting my learning journey on [Medium](https://francisco-escobar.medium.com/) and [DEV.to](https://dev.to/franciscojeg78)
+- 💬 Ask me about Customer Success, cloud learning, AI, or getting started in tech
 - 📫 Reach me at **franciscojeg@gmail.com**
-- 🌍 Based in **Santiago, Chile**
+- 🌎 Based in Santiago, Chile
 
 ---
 
 ## 🎯 Currently Learning & Practicing
 
-<div align="center">
+| Technology | What I'm Doing | Current Focus |
+|---|---|---|
+| ☁️ **AWS** | Hands-on labs and Solutions Architect studies | Cloud fundamentals |
+| 🤖 **Artificial Intelligence** | Exploring AI concepts, tools, and practical use cases | AI fundamentals |
+| 🐍 **Python** | Automation scripts, DevOps, and AI use cases | Scripting |
+| 🏗️ **Terraform** | Tutorials and small infrastructure projects | Infrastructure as Code |
+| 🔄 **CI/CD** | Learning pipeline concepts and basic workflows | Automation |
+| 🐳 **Docker** | Containerizing applications with Docker Compose | Containers |
+| ⚓ **Kubernetes** | Studying fundamentals and experimenting locally | Orchestration |
+| 🐧 **Linux** | Daily command-line practice | Systems administration |
 
-| Technology | What I'm Doing | Current Level |
-|:----------:|:----------:|:------:|
-| ☁️ **AWS** | Hands-on labs, studying for Solutions Architect | 🌱 Learning |
-| 🐍 **Python** | Automation scripts, DevOps use cases | 🌱 Learning |
-| 🏗️ **Terraform** | Following tutorials, small projects | 🌱 Beginner |
-| ∞ **CI/CD** | Understanding concepts, basic pipelines | 🌱 Beginner |
-| 🐳 **Docker** | Containerizing apps, Docker Compose | 🌱 Learning |
-| ⚓ **Kubernetes** | Studying fundamentals, local clusters | 🌱 Beginner |
-| 🐧 **Linux** | Daily practice, command line skills | 🌱 Learning |
-
-</div>
-
-> 💡 **Note:** I'm not an expert yet, but I'm dedicated to learning through consistent practice and hands-on experience!
+> 💡 I'm not an expert yet, but I'm committed to learning through consistent practice and hands-on experience.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms (Learning)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### ☁️ Cloud Platforms
 
-### 🔧 DevOps & Infrastructure (Learning)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🔧 DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🤖 Artificial Intelligence
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-CC785C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Learning-8A2BE2?style=for-the-badge)
 
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases (Familiar with)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💼 Professional Experience
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscojeg/)
+[![Medium](https://img.shields.io/badge/Medium-Read_my_articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://francisco-escobar.medium.com/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/franciscojeg78)
+
+---
+
+## 📈 GitHub Stats
+
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscojeg&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojeg&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### “Learning by building, improving by sharing.”
