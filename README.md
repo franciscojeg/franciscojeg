@@ -17,7 +17,7 @@ My Customer Success background gives me a unique perspective on how technology i
 - 🧪 Building hands-on labs and small Cloud, DevOps, and AI projects
 - 🎯 Transitioning from Customer Success into Cloud, DevOps, and AI-focused roles
 - 🤝 Open to collaborating on beginner-friendly cloud, automation, and AI projects
-- ✍️ Documenting my learning journey on [Medium](https://francisco-escobar.medium.com/) and [DEV.to](https://dev.to/franciscojeg78)
+- ✍️ Documenting my learning journey
 - 💬 Ask me about Customer Success, cloud learning, AI, or getting started in tech
 - 📫 Reach me at **franciscojeg@gmail.com**
 - 🌎 Based in Santiago, Chile
