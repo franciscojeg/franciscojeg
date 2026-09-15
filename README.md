@@ -87,11 +87,11 @@ My Customer Success background gives me a unique perspective on how technology i
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Projects
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscojeg&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojeg&layout=compact&theme=transparent&hide_border=true)
+- ☁️ [AWS Solutions Architect Study Guide](https://github.com/franciscojeg/Guia-de-estudio-completa-para-certificacion-AWS-SAA-C03)
+- 🤖 [AWS AI Practitioner Study Guide](https://github.com/franciscojeg/Guia-de-Estudio-Completa-AWS-AI-Practitioner)
+- 💻 [AWS CLI Guide](https://github.com/franciscojeg/aws-cli-guide)
 
 ---
 
